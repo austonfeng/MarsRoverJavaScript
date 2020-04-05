@@ -1,0 +1,12 @@
+{
+  "name": "mars-rover-nodejs",
+  "version": "0.0.0",
+  "description": "MarsRoverNodejs",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
